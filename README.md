@@ -16,7 +16,7 @@ Website for LAN Montmorency
 #### Installing bower
 
 ### Setup the project
- 
+ ssss
  * Go 
  * create `config.dev.js` in `backend/config/` basing yourself on `config.skel.js`
 
