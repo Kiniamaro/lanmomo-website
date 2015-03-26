@@ -1,5 +1,5 @@
 # lanmomo-website
-Website for LAN Montmorency
+website for LAN Montmorency
 
 ## Hacking on the project
 
