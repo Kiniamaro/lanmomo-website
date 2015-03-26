@@ -9,7 +9,7 @@ website for LAN Montmorency
  * `npm`
  * `grunt-cli`
  * `bower`
-
+ 
 #### Installing Grunt-cli
  * using npm : `npm install -g grunt-cli`
 
