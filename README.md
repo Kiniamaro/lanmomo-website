@@ -19,7 +19,7 @@ Website for LAN Montmorency
 ### Setup the project
  * Clone the project using `git clone ...`
  * Install the packages using `npm install`
- * Go in `public/` and install the frontend dependencies using `bower install`
+ * Go 
  * create `config.dev.js` in `backend/config/` basing yourself on `config.skel.js`
 
 ### When working on the project
