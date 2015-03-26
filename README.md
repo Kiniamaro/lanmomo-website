@@ -14,7 +14,6 @@ Website for LAN Montmorency
  * using npm : `npm install -g grunt-cli`
 
 #### Installing bower
- * using npm : `npm install -g bower`
 
 ### Setup the project
  * Clone the project using `git clone ...`
