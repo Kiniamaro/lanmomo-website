@@ -1,7 +1,5 @@
 # lanmomo-website
 Website for LAN Montmorency
-WOOT WOOT WOOOT WOOOT
-
 ## Hacking on the project
 
 ### Dependencies
