@@ -12,7 +12,6 @@ Website for LAN Montmorency
 
 
 sss
-#### Installing bower
 
 ### Setup the project
  ssss
