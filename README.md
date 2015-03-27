@@ -9,10 +9,6 @@ Website for LAN Montmorency
  * `grunt-cli`
  * `bower`
 
-
-
-sss
-
 ### Setup the project
  ssss
  * create `config.dev.js` in `backend/config/` basing yourself on `config.skel.js`
