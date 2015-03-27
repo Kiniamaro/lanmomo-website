@@ -1,5 +1,6 @@
 # lanmomo-website
 Website for LAN Montmorency
+<!--will it see this-->
 ## Hacking on the project
 
 ### Dependencies
