@@ -13,7 +13,7 @@ Website for LAN Montmorency
  ssss
  * create `config.dev.js` in `backend/config/` basing yourself on `config.skel.js`
 
-### When working on the project
+
 
 * Launch the development server using `grunt serve`
 * Launch the linting using `grunt lint`
