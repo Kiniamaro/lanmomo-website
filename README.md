@@ -5,8 +5,7 @@ Website for LAN Montmorency
 
 ### Dependencies
  * `mongoDB`
- * ``
- * `npm`
+
  * `grunt-cli`
  * `bower`
 
